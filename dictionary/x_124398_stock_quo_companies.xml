@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Companies" max_length="40" name="x_124398_stock_quo_companies" type="collection">
+        <element label="Close" max_length="40" name="close" type="float"/>
+        <element label="Company" max_length="40" name="company" type="string"/>
+        <element label="Open" max_length="40" name="open" type="float"/>
+        <element label="Sector" max_length="40" name="sector" type="string"/>
+        <element label="Symbol" max_length="40" name="symbol" type="string"/>
+    </element>
+</database>
